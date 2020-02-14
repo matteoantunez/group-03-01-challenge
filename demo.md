@@ -1,7 +1,7 @@
 **Purpose: to demo the process of branching in a simple markdown file**
 
 
-# Nick,Chsae,Matthew
+# Nick,Chase,Matthew
 
 ## About Nick
 Nick joined programming per the influence of his own father.  An interesting fact, his father joined programming from his **HIS** 
